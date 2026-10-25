@@ -139,6 +139,14 @@ Potential improvements include:
 - Implementing more advanced walking algorithms.
 - Further optimising servo timing and energy consumption.
 
+## Project Documentation
+
+The project presentation provides an overview of
+the robot's development, mechanical design,
+software implementation, testing and results.
+
+[View MEGaTron Project Presentation](docs/MEGaTron_Project_Presentation.pdf)
+
 ## Project Context
 
 Developed by Team MEGaTron as part of the University of Kent Engineering Team Project.
