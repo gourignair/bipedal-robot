@@ -35,6 +35,24 @@ My technical contributions included:
 - Supporting the development and verification of the Wi-Fi control interface.
 - Coordinating software integration with mechanical design changes.
 
+
+## Servo Calibration Tool
+
+I independently developed a web-based calibration tool
+that allowed all six servo joints to be adjusted in
+real time using sliders on a smartphone.
+
+The interface was hosted directly on the ESP32
+microcontroller and communicated with the robot
+over its local Wi-Fi network.
+
+This significantly simplified gait development,
+allowing servo positions to be tested and refined
+without repeatedly modifying and uploading firmware.
+
+The calibrated joint positions were subsequently
+used in the robot's walking algorithm.
+
 The main robot firmware was developed collaboratively with another software lead. Mechanical design and other project contributions were completed by fellow team members.
 
 ## Technologies
