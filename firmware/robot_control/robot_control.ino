@@ -1,20 +1,18 @@
 
 /*
  * MEGaTron Bipedal Robot
- * Main Robot Control Firmware
+ * Walking Algorithm - Project Report Extract
  *
- * University of Kent
- * Engineering Team Project
+ * Developed collaboratively by the MEGaTron software team.
  *
- * Developed collaboratively by the MEGaTron
- * software team.
+ * NOTE:
+ * This file documents the walking algorithm
+ * from the university group project.
  *
- * Features:
- * - Six-servo motion control
- * - Four-phase walking sequence
- * - Smooth servo interpolation
- * - Wi-Fi-based remote control
- * - Stop command handling
+ * The original setup() function and web
+ * command handlers are not included.
+ *
+ * This extract is not standalone firmware.
  */
 
 #include <Wire.h>
