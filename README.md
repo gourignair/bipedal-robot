@@ -2,7 +2,7 @@
 
 ## Overview
 
-MEGaTron is a six-servo bipedal robot developed as part of a Undergraduate Electronic & Computer Engineering team project at the University of Kent.
+MEGaTron is a six-servo bipedal robot developed as part of a undergraduate Electronic & Computer Engineering team project at the University of Kent.
 
 The project involved developing an existing robotic platform through embedded programming, mechanical redesign, wireless communication, servo calibration, and iterative testing.
 
@@ -34,7 +34,6 @@ My technical contributions included:
 - Testing servo positions, gait timing, and power supply behaviour.
 - Supporting the development and verification of the Wi-Fi control interface.
 - Coordinating software integration with mechanical design changes.
-
 
 ## Servo Calibration Tool
 
