@@ -1,5 +1,11 @@
 # 🤖 MEGaTron - Wi-Fi Controlled Bipedal Robot
 
+<p align="center">
+  <img src="images/completed_robot_standing.png"
+       alt="Completed MEGaTron bipedal robot"
+       width="450">
+</p>
+
 ## Overview
 
 MEGaTron is a six-servo bipedal robot developed as part of a undergraduate Electronic & Computer Engineering team project at the University of Kent.
@@ -62,6 +68,44 @@ The main robot firmware was developed collaboratively with another software lead
 - Wi-Fi and embedded web server
 - Autodesk Fusion 360
 - 3D printing
+
+## Wireless Control Interface
+
+The ESP32-based controller hosts a local Wi-Fi network
+and web interface, allowing the robot to receive
+movement commands from a smartphone.
+
+The interface provides controls for walking, stopping,
+standing, crouching, and selecting movement speed.
+
+![MEGaTron Wi-Fi Control Interface](images/wifi_control_interface.png)
+
+
+## Mechanical Design
+
+The team developed several mechanical improvements
+to increase the robot's stability and load-bearing
+capability.
+
+### Payload and Battery Housing
+
+![Payload Housing](images/weight_and_battery_storage.png)
+
+The final housing includes seven individual compartments
+designed to prevent payload movement during operation.
+
+### Foot Redesign
+
+![Redesigned Robot Feet](images/redesigned_feet.png)
+
+The redesigned feet feature extended geometry and curved
+toes to improve ground contact and reduce snagging during
+movement.
+
+### CAD Component
+
+![Foot CAD Model](images/robot_feet_design.png)
+
 
 ## Results
 
