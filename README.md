@@ -145,7 +145,7 @@ The project presentation provides an overview of
 the robot's development, mechanical design,
 software implementation, testing and results.
 
-[View MEGaTron Project Presentation](docs/Engineering Group Project Presentation-3.pdf)
+[View MEGaTron Project Presentation](docs/Engineering%20Group%20Project%20Presentation-3.pdf)
 
 ## Project Context
 
